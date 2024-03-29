@@ -13,6 +13,7 @@ import MarkdownItAnchor from 'markdown-it-anchor'
 import matter from 'gray-matter'
 
 export default defineConfig({
+  base: "/portfolio_for_Srika",
   resolve: {
     alias: {
       '@/': `${path.resolve(__dirname, 'src')}/`,
