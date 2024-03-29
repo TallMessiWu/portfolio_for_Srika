@@ -1,10 +1,10 @@
 <template>
   <section class="hero container has-ellipse-curve">
     <div class="hero-content">
-      <h1 class="hero__headline">I'm Jeferson Brito</h1>
+      <h1 class="hero__headline">I'm Srika Chowdhury</h1>
       <p class="hero__description">
-        Software Engineer that crafts things for the Web, heavy focused on
-        front-end development enthusiastic and fascinated on UI design ✨
+        Postdoctoral research fellow in Alex Nectow's lab at Columbia University,
+        specializing in behavioral, circuit, and molecular neuroscience. 🧠
       </p>
       <SocialMediaIcons />
     </div>

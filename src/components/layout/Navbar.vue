@@ -2,7 +2,7 @@
   <header class="header">
     <div class="container">
       <router-link to="/">
-        <h3>Jeferson Brito</h3>
+        <h3>Srika Chowdhury</h3>
       </router-link>
       <nav class="navbar">
         <ul class="navbar-menu">
@@ -186,7 +186,7 @@ body[data-theme='light'] {
   .header {
     font-size: var(--text-base);
   }
-  .navbar-menu { 
+  .navbar-menu {
     & .navbar-menu__item:nth-child(n + 3) {
       display: none;
     }

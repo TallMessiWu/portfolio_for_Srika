@@ -16,23 +16,28 @@
         <h1 class="about-content__headline">About me</h1>
         <p>👋 Hey! How are you?</p>
         <p>
-          I'm Jeferson. I'm a
-          <strong>software engineer</strong> dedicated to
-          <em> crafting </em> things for the web through coding.
+          I'm Srika. I'ma <strong>postdoctoral research fellow</strong> in Alex Nectow's lab at Columbia University,
+          specializing in <em>behavioral, circuit, and molecular neuroscience</em>.
         </p>
         <p>
-          I wrote my first lines of code back in 2014 of HTML4, CSS and ES5
-          using just a notepad in a very low machine 😅. Like many people I
-          graduated a few years later and since then I've been on this adventure
-          into the world of programming.
+          My long-term research interests are focused on understanding the neurobiological basis of animal behavior and
+          associated disorders to advance human health.
         </p>
         <p>
-          I don't have "favorites", but I like to code on JavaScript,
-          Typescript, Python, and Elixir at the moment. I also like to think
-          outside coding, prioritizing tasks/features, and proving the best
-          practices, fundamentals, and consistency throughout the code.
+          My academic training and research experiences have given me a strong foundation in multiple biological
+          disciplines, including neurophysiology, molecular biology, biochemistry, and genetics. During undergraduate
+          studies, I worked with Dr. ASM Noman on the impact of environmental stress on organs and molecules. Later, as
+          a predoctoral student under Dr. Akihiro Yamanaka at Nagoya University, I discovered a specific neural
+          connection and its role in sleep regulation. During my postdoctoral training at Columbia University, my work
+          revealed a neurobiological mechanism of eating behavior regulation.
         </p>
-        <p>I'm into computers, ui design, games and anime (of course) :P</p>
+        <p>
+          I will continue to build on my previous training to reveal the neural underpinning of eating
+          behavior-related mental health disorders. The proposed research will provide me with new conceptual and
+          technical training in the neurobiology of mental health. Besides, the successful completion of this fellowship
+          will outline a set of career development activities designed to enhance my ability to be an independent
+          investigator.
+        </p>
         <SocialMediaIcons boxed />
       </article>
     </main>
@@ -72,7 +77,7 @@ useHead({
 
 <route lang="yaml">
 meta:
-  layout: default
+layout: default
 </route>
 
 <style lang="css" scoped>

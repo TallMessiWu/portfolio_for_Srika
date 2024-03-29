@@ -2,7 +2,7 @@
   <footer class="footer">
     <div class="container">
       <p class="footer__copyright">
-        <em>Made with ♥ by Jeferson</em>
+        <em>Template made by Chowdhury</em>
         <span>@2021 - Present. All rights reserved.</span>
       </p>
       <div class="built-tech">
