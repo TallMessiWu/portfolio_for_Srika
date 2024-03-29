@@ -1,6 +1,6 @@
 <template>
   <div class="posts-list container">
-    <h3 id="posts-heading">Latest Posts</h3>
+    <h3 id="posts-heading">Latest Publications</h3>
     <PostPreview
       v-for="article in topRecentArticles"
       :key="article.id"

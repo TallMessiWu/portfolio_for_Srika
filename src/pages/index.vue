@@ -2,8 +2,8 @@
   <main id="main-content">
     <HeroSection />
     <PostsList />
-    <ProjectsGrid />
-    <GithubProjects />
+<!--    <ProjectsGrid />-->
+<!--    <GithubProjects />-->
   </main>
 </template>
 

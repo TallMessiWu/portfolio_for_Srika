@@ -10,7 +10,7 @@
     </div>
     <aside class="hero-aside">
       <ScrollIndicator class="is-mobile-only" />
-      <h2 class="hero__subheadline">web developer</h2>
+      <h2 class="hero__subheadline">Postdoc Research Fellow</h2>
       <HeroAvatar>
         <img
           src="@/assets/img/profile.jpg"

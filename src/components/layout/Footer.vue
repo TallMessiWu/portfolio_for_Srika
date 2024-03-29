@@ -2,8 +2,8 @@
   <footer class="footer">
     <div class="container">
       <p class="footer__copyright">
-        <em>Template made by Chowdhury</em>
-        <span>@2021 - Present. All rights reserved.</span>
+        <em>Template originally made by Jeferson; Modified by Srikanta</em>
+        <span>@2024 - Present. All rights reserved.</span>
       </p>
       <div class="built-tech">
         <AppLink

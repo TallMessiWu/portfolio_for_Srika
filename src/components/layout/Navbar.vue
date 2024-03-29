@@ -22,11 +22,11 @@
               >About</router-link
             >
           </li>
-          <li class="navbar-menu__item">
-            <router-link class="navbar-menu__link" to="/#projects">
-              Projects
-            </router-link>
-          </li>
+<!--          <li class="navbar-menu__item">-->
+<!--            <router-link class="navbar-menu__link" to="/#projects">-->
+<!--              Projects-->
+<!--            </router-link>-->
+<!--          </li>-->
           <li class="navbar-menu__item">
             <router-link class="navbar-menu__link" to="/now">
               /now
@@ -46,11 +46,11 @@
           >About</router-link
         >
       </li>
-      <li class="navbar-menu__item">
-        <router-link class="navbar-menu__link" to="/#projects">
-          Projects
-        </router-link>
-      </li>
+<!--      <li class="navbar-menu__item">-->
+<!--        <router-link class="navbar-menu__link" to="/#projects">-->
+<!--          Projects-->
+<!--        </router-link>-->
+<!--      </li>-->
       <li class="navbar-menu__item">
         <router-link class="navbar-menu__link" to="/now"> /now </router-link>
       </li>

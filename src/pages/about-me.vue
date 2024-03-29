@@ -16,7 +16,7 @@
         <h1 class="about-content__headline">About me</h1>
         <p>👋 Hey! How are you?</p>
         <p>
-          I'm Srika. I'ma <strong>postdoctoral research fellow</strong> in Alex Nectow's lab at Columbia University,
+          I'm Srika. I'm a <strong>postdoctoral research fellow</strong> in Alex Nectow's lab at Columbia University,
           specializing in <em>behavioral, circuit, and molecular neuroscience</em>.
         </p>
         <p>
@@ -48,7 +48,7 @@
 import { useRoute } from 'vue-router'
 import config from '../config/siteconfig.json'
 
-const title = 'About me • Jeferson S. Brito'
+const title = 'About me • Srikanta Chowdhury'
 const { description } = config
 const route = useRoute()
 

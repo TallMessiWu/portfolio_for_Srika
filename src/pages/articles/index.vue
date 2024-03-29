@@ -21,7 +21,7 @@
 import { useRoute } from 'vue-router'
 import { useArticles } from '@/composables/useArticles'
 
-const title = 'Articles • Jeferson S. Brito'
+const title = 'Articles • Srikanta Chowdhury'
 const description =
   'Here you can find all of my articles, tutorials and guides, going from little css tips to software architecture, open source, user experience and so on'
 
