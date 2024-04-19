@@ -15,17 +15,18 @@ meta:
 
 # What I'm doing now
 
-📖 Currently reading: <em>Rust in Action</em> by Tim McNamara. 🦀
+📖 Currently reading: <em>Mices</em>. 🦀
 
-✏️ Learning: Rust.
+✏️ Learning: Programming.
 
-📺 Watching: Sousou no Frieren.
+📺 Watching: Mices.
 
-🎮 Currently playing: <em>Persona 3 Reload</em>.
+🎮 Currently playing: <em>Mices</em>.
 
 Happy new year! 🥳🚀
 
-Latest article: [/articles/writing-smooth-css-transitions](/articles/writing-smooth-css-transitions)
+Latest
+article: [REM sleep-active MCH neurons are involved in...](/articles/rem%20sleep-active%20mch%20neurons%20are%20involved%20in%20forgetting%20hippocampus-dependent%20memories)
 
 </article>
 
