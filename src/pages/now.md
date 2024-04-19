@@ -26,7 +26,7 @@ meta:
 Happy new year! 🥳🚀
 
 Latest
-article: [REM sleep-active MCH neurons are involved in...](/articles/rem%20sleep-active%20mch%20neurons%20are%20involved%20in%20forgetting%20hippocampus-dependent%20memories)
+article: [REM sleep-active MCH neurons are involved in...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7378274/)
 
 </article>
 
